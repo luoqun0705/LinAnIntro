@@ -1,0 +1,5 @@
+E:\myproject\LinAnInfo\LinAnInfo\bin\LinAnInfo.dll
+E:\myproject\LinAnInfo\LinAnInfo\bin\LinAnInfo.pdb
+E:\myproject\LinAnInfo\LinAnInfo\obj\Debug\LinAnInfo.dll
+E:\myproject\LinAnInfo\LinAnInfo\obj\Debug\LinAnInfo.pdb
+E:\myproject\LinAnInfo\LinAnInfo\obj\Debug\LinAnInfo.csprojResolveAssemblyReference.cache
